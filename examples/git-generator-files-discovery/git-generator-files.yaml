@@ -22,3 +22,5 @@ spec:
         server: https://kubernetes.default.svc
         #server: '{{cluster.address}}'
         namespace: default
+      syncPolicy:
+        automated: {}

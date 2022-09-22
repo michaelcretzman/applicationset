@@ -4,6 +4,6 @@
   "cluster": {
     "owner": "cluster-admin@company.com",
     "name": "engineering-prod",
-    "address": "http://1.2.3.4"
+    "address": "http://104.197.176.85"
   }
 }

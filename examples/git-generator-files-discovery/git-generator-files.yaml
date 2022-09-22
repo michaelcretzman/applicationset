@@ -13,7 +13,7 @@ spec:
     metadata:
       name: '{{cluster.name}}-guestbook'
     spec:
-      project: default
+      project: b062fb30
       source:
         repoURL: https://github.com/michaelcretzman/applicationset.git
         targetRevision: HEAD

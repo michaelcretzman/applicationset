@@ -1,4 +1,5 @@
 {
+  "releaseTag": "k8s-v0.2",
   "asset_id": "11223345",
   "cluster": {
     "owner": "cluster-admin@company.com",

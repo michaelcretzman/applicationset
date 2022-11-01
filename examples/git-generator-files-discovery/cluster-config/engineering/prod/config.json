@@ -4,7 +4,7 @@
   "asset_id": "11223344",
   "cluster": {
     "owner": "cluster-admin@company.com",
-    "name": "engineering-prod",
+    "name": "prod",
     "address": "http://34.173.123.70"
   }
 }
